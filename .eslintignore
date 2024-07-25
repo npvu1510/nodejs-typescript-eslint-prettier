@@ -1,0 +1,4 @@
+# syntax giống .gitignoredist/
+build/
+dist/
+node_modules/
